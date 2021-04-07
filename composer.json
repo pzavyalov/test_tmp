@@ -1,0 +1,13 @@
+{
+    "name": "pzavyalov/test_tmp",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pavel Zavyalov",
+            "email": "zavyalov.one@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
